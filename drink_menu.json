@@ -1,0 +1,29 @@
+[
+    {
+    "id": 1,
+    "type": "Drink",
+    "name": "Seltzer",
+    "price": 1.29,
+    "qoh": 50,
+    "perptime": 20,
+    "description": "This is a fizzy water with a hint of grapefruit and orange citrus flavor."
+    },
+    {
+    "id": 2,
+    "type": "Drink",
+    "name": "Beer",
+    "price": 4.19,
+    "qoh": 62,
+    "perptime": 30,
+    "description": "This is Belgin Sour and has hints of dark chocolate and cherries."
+    },
+    {
+    "id": 3,
+    "type": "Drink",
+    "name": "Wine",
+    "price": 20.00,
+    "qoh": 100,
+    "perptime": 12,
+    "description": "This is a Dry Italian red wine; commonly refereed to as an Amarone."
+    }
+]

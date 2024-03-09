@@ -1,0 +1,29 @@
+[
+    {
+    "id": 1,
+    "type": "Dessert",
+    "name": "Cookies",
+    "price": 3.64,
+    "qoh": 200,
+    "perptime": 5,
+    "description": "This is a chocolate chip cookie"
+    },
+    {
+    "id": 2,
+    "type": "Dessert",
+    "name": "Cake",
+    "price": 7.82,
+    "qoh": 218,
+    "perptime": 45,
+    "description": "This is an apple cake with a rich cream cheese icing."
+    },
+    {
+    "id": 3,
+    "type": "Dessert",
+    "name": "Pie",
+    "price": 7.99,
+    "qoh": 184,
+    "perptime": 45,
+    "pescription": "This a sour cream apple pie with a cinnamon crumble."
+    }
+]

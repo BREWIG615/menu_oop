@@ -1,0 +1,83 @@
+[
+    {
+        "id": 0,
+        "type": "Food",
+        "name": "Hot Dog",
+        "price": 3.23,
+        "qoh": 6,
+        "perptime": 300,
+        "description": "This is a grilled hot dog with bbq sauce served on a bun."
+    },
+    {
+        "id": 1,
+        "type": "Food",
+        "name": "Burger",
+        "price": 7.49,
+        "qoh": 18,
+        "perptime": 420,
+        "description": "This is a Burger with bacon, onion, and tomato served on a kaiser roll."        
+    },
+    {
+        "id": 2,
+        "type": "Food",
+        "name": "Steak",
+        "price": 27.94,
+        "qoh": 20,
+        "perptime": 1200,
+        "description": "This is a medium-rare steak grilled over an open flame and server with a side of shrimp and lemon butter sauce."
+    },
+    {
+        "id": 3,
+        "type": "Drink",
+        "name": "Seltzer",
+        "price": 1.29,
+        "qoh": 50,
+        "perptime": 20,
+        "description": "This is a fizzy water with a hint of grapefruit and orange citrus flavor."
+    },
+    {
+        "id": 4,
+        "type": "Drink",
+        "name": "Beer",
+        "price": 4.19,
+        "qoh": 62,
+        "perptime": 30,
+        "description": "This is Belgin Sour and has hints of dark chocolate and cherries."
+    },
+    {
+        "id": 5,
+        "type": "Drink",
+        "name": "Wine",
+        "price": 20.00,
+        "qoh": 100,
+        "perptime": 12,
+        "description": "This is a Dry Italian red wine; commonly refereed to as an Amarone."
+    },
+    {
+        "id": 6,
+        "type": "Dessert",
+        "name": "Cookies",
+        "price": 3.64,
+        "qoh": 200,
+        "perptime": 5,
+        "description": "This is a chocolate chip cookie"
+    },
+    {
+        "id": 7,
+        "type": "Dessert",
+        "name": "Cake",
+        "price": 7.82,
+        "qoh": 218,
+        "perptime": 45,
+        "description": "This is an apple cake with a rich cream cheese icing."
+    },
+    {
+        "id": 8,
+        "type": "Dessert",
+        "name": "Pie",
+        "price": 7.99,
+        "qoh": 184,
+        "perptime": 45,
+        "pescription": "This a sour cream apple pie with a cinnamon crumble."
+    }
+]    

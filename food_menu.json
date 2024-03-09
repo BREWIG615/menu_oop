@@ -1,0 +1,29 @@
+[
+    {
+    "id": 0,
+    "type": "Food",
+    "name": "Hot Dog",
+    "price": 3.23,
+    "qoh": 6,
+    "perptime": 300,
+    "description": "This is a grilled hot dog with bbq sauce served on a bun."
+    },
+    {
+    "id": 1,
+    "type": "Food",
+    "name": "Burger",
+    "price": 7.49,
+    "qoh": 18,
+    "perptime": 420,
+    "description": "This is a Burger with bacon, onion, and tomato served on a kaiser roll."
+    },
+    {
+    "id": 2,
+    "type": "Food",
+    "name": "Steak",
+    "price": 27.94,
+    "qoh": 20,
+    "perptime": 1200,
+    "description": "This is a medium-rare steak grilled over an open flame and server with a side of shrimp and lemon butter sauce."
+    }
+]
